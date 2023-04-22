@@ -1,37 +1,28 @@
 ---
 layout: default
-title: Your Project Title
+title: Meet Fish: The Adorable Cat
 ---
 
-# Uni-paint: AAAAAAA
-
-## Abstract
-Provide a brief overview of your project, its goals, and its significance in the field of computer vision.
+# Meet Fish: The Adorable Cat
 
 ## Introduction
-Introduce your project and provide some background information on the problem you are addressing. Explain the motivation behind your work and discuss the challenges that your project aims to overcome.
+Allow me to introduce you to **Fish**, a cute and adorable cat with a rather unusual name. Fish is cherished by its owner, a talented programmer named **Xiaoyi**. However, a recent event has left Xiaoyi feeling rather unhappy. Let's learn more about Fish, Xiaoyi, and the unexpected incident.
 
-## Related Work
-Discuss previous work in the field of computer vision that has inspired or influenced your project. Include references to relevant papers and other sources.
+![998ef2c977ee5c883f46028abfb5701](https://user-images.githubusercontent.com/61229015/233770923-2306e41f-ae50-4cab-9136-743bff04114b.jpg)
 
-## Methodology
-Describe the methods and algorithms you have developed or adapted for your project. Explain how these methods address the challenges you outlined in the Introduction section.
+## About Fish and Xiaoyi
+Fish is a delightful cat that brings joy to everyone who meets it. With its soft fur and playful nature, Fish has become a beloved companion for its owner, Xiaoyi. Xiaoyi is a programmer with a passion for coding and a love for animals. Together, they share a harmonious and happy life.
 
-## Results
-Present the results of your experiments and evaluations. Include visualizations, tables, and other figures to support your findings.
+## The Roommate: YanXin
+Xiaoyi has a roommate named **YanXin**. Although they share the same living space, their relationship is about to take a turn for the worse. YanXin, without Xiaoyi's knowledge or permission, made a decision that would impact both Fish and Xiaoyi.
 
-## Discussion
-Analyze your results and discuss their implications for the field of computer vision. Identify any limitations or areas for future work.
+## The Unexpected Sale
+To Xiaoyi's dismay, YanXin decided to sell Fish to someone else. This decision was made unilaterally and without consulting Xiaoyi. As you can imagine, Xiaoyi was heartbroken and deeply unhappy about the situation. Fish was more than just a pet; it was a cherished friend and companion.
+
+## Parting Ways
+Given the unfortunate turn of events, Xiaoyi made a tough decision. It was clear that living with YanXin was no longer an option. Therefore, Xiaoyi decided to part ways and no longer live with YanXin. It was a difficult choice, but one that Xiaoyi felt was necessary to move forward.
 
 ## Conclusion
-Summarize your project and its contributions to the field. Discuss the impact of your work and its potential applications.
+Fish's story is a reminder that our pets are more than just animals; they are members of our family. The bond between Fish and Xiaoyi is strong, and their story is a testament to the love we share with our furry friends. While we may face challenges and obstacles along the way, our pets are always there to bring us joy and comfort.
 
-## Acknowledgements
-Thank any collaborators, advisors, or other individuals who have contributed to your project.
 
-## References
-List the sources you have cited in your work, following a consistent citation style (e.g., APA, IEEE, or ACM).
-
-[1] Author(s). (Year). Title of the paper. *Conference/Journal Name*, Volume(Issue), pages.
-
-[2] Author(s). (Year). Title of the book. Publisher, Edition.
